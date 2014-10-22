@@ -4,6 +4,9 @@ Ebola SitRep PDF Parser: This code repo can possibly automate and parse of the S
 # Screenshot #
 ![alt tag](https://github.com/gajen0981/Ebola-SitRep-PDF-Parser/blob/master/samples/demo_1.png)
 
+Simply point the PDF go through code iteration to access its properties, meta data & text
+![alt tag](https://github.com/gajen0981/Ebola-SitRep-PDF-Parser/blob/master/samples/demo_2.png)
+
 
 # Basic Instructions #
 1. Check out the project and host everything in the LAMP/WAMP/MAMP technology stack
