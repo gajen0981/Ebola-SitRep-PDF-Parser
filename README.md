@@ -1,8 +1,8 @@
 # Ebola-SitRep-PDF-Parser #
 Ebola SitRep PDF Parser: This code repo can possibly automate and parse of the Situation Report PDF's coming from WHO, UN other sources into Text. 
 
-
-![alt tag](https://raw.github.com/gajen0981/Ebola-SitRep-PDF-Parser/samples/demo_1.png)
+# Screenshot #
+![alt tag](https://github.com/gajen0981/Ebola-SitRep-PDF-Parser/blob/master/samples/demo_1.png)
 
 
 # Basic Instructions #
